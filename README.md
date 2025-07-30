@@ -1,3 +1,8 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-yellow)
+![Dashboard Type](https://img.shields.io/badge/type-Interactive_Clustering-blue)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+
 # 📊 Power BI: Interactive Dashboard with Clustering & Drilldown
 
 This project presents an advanced Power BI dashboard featuring clustering, drilldown navigation, animated scatter charts, and interactive visuals.  
